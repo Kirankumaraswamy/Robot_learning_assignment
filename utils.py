@@ -49,7 +49,7 @@ def id_to_action(action_id, max_speed=0.8):
 
 class EpisodeStats:
     """
-    This class tracks statistics like episode reward or action usage.
+    This class tracks statistics like episode reward or action usage123.
     """
     def __init__(self):
         self.episode_reward = 0
